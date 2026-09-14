@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy wilnesdevil 👋</h1>
 
 <p align="center">
-  Desarrollador construyendo <b>CampusLab</b> — una plataforma que conecta estudiantes con organizaciones para resolver microproyectos reales.
+  Estudiante de Ingeniería en Computación e Informática, aspirante a desarrollador Full-Stack. Me interesa el desarrollo en general — de landing pages a plataformas completas con backend real.
 </p>
 
 <p align="center">
@@ -15,9 +15,11 @@
 
 ---
 
-### 🚀 Proyecto destacado
+### 🚀 Proyectos
 
-**[CampusLab](https://github.com/wDEVil5/CampusLab)** conecta estudiantes con organizaciones para resolver microproyectos con alcance definido, acompañamiento por hitos y evidencia de resultado verificable. Next.js 16 + Supabase (Postgres, RLS, Auth, Storage, Realtime), panel de patrocinador, moderador y admin, mensajería, notificaciones y portafolio público.
+- **[CampusLab](https://github.com/wDEVil5/CampusLab)** — plataforma que conecta estudiantes con organizaciones para resolver microproyectos con alcance definido, acompañamiento por hitos y evidencia de resultado verificable. Next.js 16 + Supabase (Postgres, RLS, Auth, Storage, Realtime).
+- **[tienda-react](https://github.com/wDEVil5/tienda-react)** — página tipo e-commerce desarrollada desde cero con React.
+- **[minimarket-landing](https://github.com/wDEVil5/minimarket-landing)** — landing page para un negocio (minimarket familiar).
 
 ### 🛠️ Stack
 
