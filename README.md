@@ -17,13 +17,7 @@
 
 ### 🚀 Proyecto destacado
 
-<a href="https://github.com/wDEVil5/CampusLab">
-  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=wDEVil5&repo=CampusLab&theme=default" alt="CampusLab" />
-</a>
-
-**CampusLab** conecta estudiantes con organizaciones para resolver microproyectos con alcance definido, acompañamiento por hitos y evidencia de resultado verificable. Next.js 16 + Supabase (Postgres, RLS, Auth, Storage, Realtime), panel de patrocinador, moderador y admin, mensajería, notificaciones y portafolio público.
-
-<br clear="left"/>
+**[CampusLab](https://github.com/wDEVil5/CampusLab)** conecta estudiantes con organizaciones para resolver microproyectos con alcance definido, acompañamiento por hitos y evidencia de resultado verificable. Next.js 16 + Supabase (Postgres, RLS, Auth, Storage, Realtime), panel de patrocinador, moderador y admin, mensajería, notificaciones y portafolio público.
 
 ### 🛠️ Stack
 
@@ -37,11 +31,6 @@
 
 ### 📊 Estadísticas
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wDEVil5&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wDEVil5&layout=compact&theme=default&hide_border=true" alt="Top languages" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wDEVil5&theme=default&hide_border=true" alt="GitHub streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wDEVil5&theme=dark&hide_border=true&background=0D1117" alt="GitHub streak" />
 </p>
