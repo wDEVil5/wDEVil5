@@ -40,22 +40,28 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/wDEVil5/CampusLab">🧪 CampusLab</a></h3>
-      <p>Conecta estudiantes con organizaciones para resolver microproyectos con alcance definido, acompañamiento por hitos y evidencia de resultado verificable.</p>
-      <p><sub><b>Next.js 16 · Supabase · Postgres · RLS · Tailwind</b></sub></p>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/wDEVil5/CampusLab">
+        <img src="https://github-readme-stats-wilnes.vercel.app/api/pin/?username=wDEVil5&repo=CampusLab&theme=dark&bg_color=161B22&border_color=6E56CF&title_color=6E56CF&icon_color=6E56CF&text_color=c9d1d9" alt="CampusLab" />
+      </a>
+      <br />
+      <img src="https://img.shields.io/badge/En_desarrollo_activo-6E56CF?style=flat-square" alt="En desarrollo activo" />
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/wDEVil5/tienda-react">🛒 tienda-react</a></h3>
-      <p>E-commerce en desarrollo, construido desde cero con React — catálogo, carrito y flujo de compra.</p>
-      <p><sub><b>React · JavaScript</b></sub></p>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/wDEVil5/tienda-react">
+        <img src="https://github-readme-stats-wilnes.vercel.app/api/pin/?username=wDEVil5&repo=tienda-react&theme=dark&bg_color=161B22&border_color=6E56CF&title_color=6E56CF&icon_color=6E56CF&text_color=c9d1d9" alt="tienda-react" />
+      </a>
+      <br />
+      <img src="https://img.shields.io/badge/En_desarrollo-DD6B20?style=flat-square" alt="En desarrollo" />
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/wDEVil5/minimarket-landing">🏪 minimarket-landing</a></h3>
-      <p>Landing page hecha para la práctica, pensada para el caso de un minimarket familiar.</p>
-      <p><sub><b>HTML · CSS</b></sub></p>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/wDEVil5/minimarket-landing">
+        <img src="https://github-readme-stats-wilnes.vercel.app/api/pin/?username=wDEVil5&repo=minimarket-landing&theme=dark&bg_color=161B22&border_color=6E56CF&title_color=6E56CF&icon_color=6E56CF&text_color=c9d1d9" alt="minimarket-landing" />
+      </a>
+      <br />
+      <img src="https://img.shields.io/badge/Proyecto_de_pr%C3%A1ctica-3ECF8E?style=flat-square" alt="Proyecto de práctica" />
     </td>
     <td width="50%" valign="top"></td>
   </tr>
@@ -66,8 +72,8 @@
 ## 📊 Estadísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-wilnes.vercel.app/api?username=wDEVil5&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=6E56CF&icon_color=6E56CF&cache_bust=2" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats-wilnes.vercel.app/api/top-langs/?username=wDEVil5&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=6E56CF&cache_bust=2" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-wilnes.vercel.app/api?username=wDEVil5&show_icons=true&theme=dark&bg_color=161B22&border_color=6E56CF&title_color=6E56CF&icon_color=6E56CF&cache_bust=2" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-wilnes.vercel.app/api/top-langs/?username=wDEVil5&layout=compact&theme=dark&bg_color=161B22&border_color=6E56CF&title_color=6E56CF&cache_bust=2" alt="Top languages" />
 </p>
 
 <p align="center">
