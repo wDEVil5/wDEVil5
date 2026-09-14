@@ -66,8 +66,8 @@
 ## 📊 Estadísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-wilnes.vercel.app/api?username=wDEVil5&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=6E56CF&icon_color=6E56CF" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats-wilnes.vercel.app/api/top-langs/?username=wDEVil5&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=6E56CF" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-wilnes.vercel.app/api?username=wDEVil5&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=6E56CF&icon_color=6E56CF&cache_bust=2" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-wilnes.vercel.app/api/top-langs/?username=wDEVil5&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=6E56CF&cache_bust=2" alt="Top languages" />
 </p>
 
 <p align="center">
