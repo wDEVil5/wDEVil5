@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/wilnes-devil-5ab6b81a6/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=6E56CF&center=true&vCenter=true&width=700&lines=Estudiante+de+Ingenier%C3%ADa+en+Computaci%C3%B3n+e+Inform%C3%A1tica;Aspirante+a+desarrollador+Full-Stack;Construyendo+CampusLab+ahora+mismo;De+landing+pages+a+plataformas+con+backend+propio" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=6E56CF&center=true&vCenter=true&width=700&lines=Estudiante+de+Ingenier%C3%ADa+en+Computaci%C3%B3n+e+Inform%C3%A1tica;Aspirante+a+desarrollador+Full-Stack;Construyendo+Vardelab+ahora+mismo;De+landing+pages+a+plataformas+con+backend+propio" alt="typing" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@
 
 - 🎓 Estudiante de **Ingeniería en Computación e Informática**.
 - 💻 Me interesa el desarrollo en general — de landing pages a plataformas con backend propio.
-- 🔭 Ahora mismo construyendo **[CampusLab](https://github.com/wDEVil5/CampusLab)**, una plataforma que conecta estudiantes con organizaciones.
+- 🔭 Ahora mismo construyendo **[Vardelab](https://github.com/wDEVil5/Vardelab)**, una plataforma que conecta estudiantes con organizaciones.
 - 🌱 Aprendiendo a diseñar sistemas más completos: auth, RLS, roles y paneles de administración, no solo el frontend.
 - 📫 Contacto: **wilnesdevil9@gmail.com** · [LinkedIn](https://www.linkedin.com/in/wilnes-devil-5ab6b81a6/)
 
@@ -41,8 +41,8 @@
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://github.com/wDEVil5/CampusLab">
-        <img src="https://github-readme-stats-wilnes.vercel.app/api/pin/?username=wDEVil5&repo=CampusLab&theme=dark&bg_color=161B22&border_color=6E56CF&title_color=6E56CF&icon_color=6E56CF&text_color=c9d1d9" alt="CampusLab" />
+      <a href="https://github.com/wDEVil5/Vardelab">
+        <img src="https://github-readme-stats-wilnes.vercel.app/api/pin/?username=wDEVil5&repo=Vardelab&theme=dark&bg_color=161B22&border_color=6E56CF&title_color=6E56CF&icon_color=6E56CF&text_color=c9d1d9" alt="Vardelab" />
       </a>
       <br />
       <img src="https://img.shields.io/badge/En_desarrollo_activo-6E56CF?style=flat-square" alt="En desarrollo activo" />
